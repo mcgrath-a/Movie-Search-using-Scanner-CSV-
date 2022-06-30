@@ -8,3 +8,7 @@ Redbox.java scans the information stored in the provided csv file, parses each l
 
 Main code in Redbox.java can be found here: https://github.com/mcgrath-a/Movie-Search-using-Scanner-CSV-/blob/2b3e745d5f84d21726959dda0e5b4eaf13c206be/Redbox.java 
 
+
+
+*****
+This is MY work. Code file is uploaded from my computer. Please do not directly copy code.
